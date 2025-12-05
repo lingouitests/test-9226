@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+ <string name="cat2Select">[Šöɱéöñé åţţåçĥéð å ŕéçöŕð ŵîţĥ----------------- П國カ내] {name} [ţö Ƒåɱîļý Ţŕéé öñ---------- П國カ내] {attachmentDate}[. Ýöû ɱåðé------------- П國カ내] {gender, select, male {[ĥîš П國カ]} female {[ĥéŕ П國カ]} other {[ţĥéîŕ--- П國カ내]}} [ñåɱé ƒîñðåƀļé ŵĥéñ ýöû ŕéṽîéŵéð----------- П國カ내] {gender, select, male {[ĥîš П國カ]} female {[ĥéŕ П國カ]} other {[ţĥéîŕ--- П國カ내]}} [ƒåɱîļý öñ----------- П國カ내] {contributionDate}.</string>
+ <string name="cat1Select">[Šöɱéöñé åţţåçĥéð å ŕéçöŕð ŵîţĥ----------------- П國カ내] {name} [ţö Ƒåɱîļý Ţŕéé öñ---------- П國カ내] {attachmentDate}[. Ýöû ɱåðé------------- П國カ내] {gender, select, male {[ĥîš П國カ]} female {[ĥéŕ П國カ]} other {[ţĥéîŕ--- П國カ내]}}</string> 
+ <string name="selectOnly">{gender, select, male {[ĥîš П國カ]} female {[ĥéŕ П國カ]} other {[ţĥéîŕ--- П國カ내]}}</string>
+ <string name="catSelectPlural">[Šéļéçţ----- П國カ내] {count} {gender, select, male {[ĥîš П國カ]} female {[ĥéŕ П國カ]} other {[ţĥéîŕ ĝéñðéŕ----- П國カ내]}} [åñð П國カ] {count, plural, =0 {[ƒöļðéŕ----- П國カ내]} =1 {[ƒöļðéŕ {aParam} ĥéŕé------------- П國カ내]} other {[ƒöļðéŕš ĥéŕé----- П國カ내]}}</string>
+</resources>
