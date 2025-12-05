@@ -1,0 +1,4 @@
+"cat2Select"="Someone attached a record with {name} to Family Tree on {attachmentDate}. You made {gender, select, male {his} female {her} other {their}} name findable when you reviewed {gender, select, male {his} female {her} other {their}} family on {contributionDate}.";
+"cat1Select"="Someone attached a record with {name} to Family Tree on {attachmentDate}. You made {gender, select, male {his} female {her} other {their}}";
+"selectOnly"="{gender, select, male {his} female {her} other {their}}";
+"catSelectPlural"="Select {count} {gender, select, male {his} female {her} other {their gender}} and {count, plural, =0 {folder} =1 {folder {aParam} here} other {folders here}}";
