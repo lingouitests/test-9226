@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+ <string name="cat2Select">Joku liitti levyn {name} Sukupuuhun {attachmentDate}. Teit {gender, select, male {hänen} female {hänen} other {heidän}} nimi löydettävissä tarkistuksen yhteydessä {gender, select, male {hänen} female {hänen} other {heidän}} perhe päällä {contributionDate}.</string>
+ <string name="cat1Select">Joku liitti levyn {name} Sukupuuhun {attachmentDate}. Teit {gender, select, male {hänen} female {hänen} other {heidän}}</string> 
+ <string name="selectOnly">{gender, select, male {hänen} female {hänen} other {heidän}}</string>
+ <string name="catSelectPlural">Valitse {count} {gender, select, male {hänen} female {hänen} other {heidän sukupuolensa}} ja {count, plural, =0 {kansio} =1 {kansio {aParam} täällä} other {kansiot täällä}}</string>
+</resources>
