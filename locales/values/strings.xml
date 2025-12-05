@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<resources>
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
  <string name="cat2Select">Someone attached a record with {name} to Family Tree on {attachmentDate}. You made {gender, select, male {his} female {her} other {their}} name findable when you reviewed {gender, select, male {his} female {her} other {their}} family on {contributionDate}.</string>
  <string name="cat1Select">Someone attached a record with {name} to Family Tree on {attachmentDate}. You made {gender, select, male {his} female {her} other {their}}</string> 
  <string name="selectOnly">{gender, select, male {his} female {her} other {their}}</string>
