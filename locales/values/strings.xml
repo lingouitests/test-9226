@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
-  <string name="app_name">Memories {0}</string>
-  <string name="added">added</string>
-  <string name="lyric">I thought love was only true in fairy tales</string>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+ <string name="cat2Select">Someone attached a record with {name} to Family Tree on {attachmentDate}. You made {gender, select, male {his} female {her} other {their}} name findable when you reviewed {gender, select, male {his} female {her} other {their}} family on {contributionDate}.</string>
+ <string name="cat1Select">Someone attached a record with {name} to Family Tree on {attachmentDate}. You made {gender, select, male {his} female {her} other {their}}</string> 
+ <string name="selectOnly">{gender, select, male {his} female {her} other {their}}</string>
+ <string name="catSelectPlural">Select {count} {gender, select, male {his} female {her} other {their gender}} and {count, plural, =0 {folder} =1 {folder {aParam} here} other {folders here}}</string>
 </resources>
